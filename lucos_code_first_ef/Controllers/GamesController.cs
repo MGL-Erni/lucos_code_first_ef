@@ -1,9 +1,7 @@
 ﻿using lucos_code_first_ef.Data;
 using lucos_code_first_ef.Models;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Identity.Client;
 
 namespace lucos_code_first_ef.Controllers
 {
